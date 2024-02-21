@@ -1,0 +1,2050 @@
+{
+  "panels": [
+    {
+      "index": 0,
+      "name": 1,
+      "paperType": "A4",
+      "height": 297,
+      "width": 210,
+      "paperHeader": 19.5,
+      "paperFooter": 819,
+      "printElements": [
+        {
+          "options": {
+            "left": 429,
+            "top": 25.5,
+            "height": 33,
+            "width": 162,
+            "title": "长文",
+            "right": 594,
+            "bottom": 58.5,
+            "vCenter": 513,
+            "hCenter": 42,
+            "field": "tipsWord",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "hideTitle": true
+          },
+          "printElementType": {
+            "title": "长文",
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 82.5,
+            "top": 30,
+            "height": 9.75,
+            "width": 190.5,
+            "fontFamily": "SimSun",
+            "fontSize": 12,
+            "fontWeight": "100",
+            "textAlign": "justify",
+            "field": "hospital_firstLine",
+            "testData": "山东第二医科大学附属青岛医院",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "qrCodeLevel": 0,
+            "right": 246.75,
+            "bottom": 61.5,
+            "vCenter": 159.75,
+            "hCenter": 56.625,
+            "title": "232323",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 274.5,
+            "top": 36,
+            "height": 9.75,
+            "width": 139.5,
+            "title": "美容医学科",
+            "fontSize": 16.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0,
+            "field": "department_Name",
+            "testData": "department_Name",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 34.5,
+            "top": 40.5,
+            "height": 9.75,
+            "width": 379.5,
+            "title": "山东第二医科大学附属青岛医院整形与医疗美容科",
+            "field": "hospitalNameLineDept",
+            "testData": "山东第二医科大学附属青岛医院整形与医疗美容科",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "hideTitle": true,
+            "fontFamily": "SimSun",
+            "fontSize": 16.5,
+            "qrCodeLevel": 0,
+            "right": 418.5,
+            "bottom": 53.25,
+            "vCenter": 217.5,
+            "hCenter": 48.375,
+            "textAlign": "center"
+          },
+          "printElementType": {
+            "title": "文本",
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 82.5,
+            "top": 43.5,
+            "height": 9.75,
+            "width": 190.5,
+            "title": "潍坊医学院附属青岛医院",
+            "fontSize": 12,
+            "textAlign": "justify",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0,
+            "field": "hospital_SecondLine",
+            "testData": "山东第二医科大学附属青岛医院",
+            "hideTitle": true,
+            "right": 259.5,
+            "bottom": 72.75,
+            "vCenter": 171,
+            "hCenter": 67.875
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 34.5,
+            "top": 58.5,
+            "height": 9.75,
+            "width": 378,
+            "title": "皮肤肿物、瘢痕切除术前告知暨知情同意书",
+            "fontFamily": "Microsoft YaHei",
+            "fontSize": 16.5,
+            "lineHeight": 18,
+            "field": "agreement_title",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "qrCodeLevel": 0,
+            "hideTitle": true,
+            "textAlign": "center",
+            "testData": "agreement_title"
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 429,
+            "top": 58.5,
+            "height": 19.5,
+            "width": 120,
+            "title": "20230000123412",
+            "textAlign": "center",
+            "textType": "barcode",
+            "right": 549,
+            "bottom": 83.25,
+            "vCenter": 489,
+            "hCenter": 73.5,
+            "field": "p_ID",
+            "testData": "20230000111222"
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 61.5,
+            "top": 87,
+            "height": 9.75,
+            "width": 120,
+            "title": "姓名",
+            "lineHeight": 13.5,
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "field": "p_Name",
+            "testData": "p_Name",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 183,
+            "top": 87,
+            "height": 9.75,
+            "width": 60,
+            "title": "性别",
+            "lineHeight": 13.5,
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "field": "p_render",
+            "testData": "p_render",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 250.5,
+            "top": 87,
+            "height": 9.75,
+            "width": 64.5,
+            "title": "年龄",
+            "lineHeight": 13.5,
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "field": "p_age",
+            "testData": "p_age",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 352.5,
+            "top": 87,
+            "height": 9.75,
+            "width": 97.5,
+            "title": "门诊号",
+            "lineHeight": 13.5,
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "field": "p_Id",
+            "testData": "20230000111222",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 483,
+            "top": 88.5,
+            "height": 9.75,
+            "width": 120,
+            "title": "手机号",
+            "lineHeight": 13.5,
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "field": "p_tel",
+            "testData": "p_tel",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 34.5,
+            "top": 90,
+            "height": 9.75,
+            "width": 120,
+            "title": "姓名：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 151.5,
+            "top": 90,
+            "height": 9.75,
+            "width": 42,
+            "title": "性别：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 223.5,
+            "top": 90,
+            "height": 9.75,
+            "width": 39,
+            "title": "年龄：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 315,
+            "top": 90,
+            "height": 9.75,
+            "width": 48,
+            "title": "门诊号：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 442.5,
+            "top": 90,
+            "height": 9.75,
+            "width": 55.5,
+            "title": "联系电话：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 61.5,
+            "top": 109.5,
+            "height": 9.75,
+            "width": 120,
+            "title": "诊断",
+            "lineHeight": 13.5,
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "field": "surgeryZhenduan",
+            "testData": "surgeryZhenduan",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 399,
+            "top": 109.5,
+            "height": 9.75,
+            "width": 180,
+            "title": "麻醉方式",
+            "fontSize": 10.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "Microsoft YaHei",
+            "qrCodeLevel": 0,
+            "right": 536.25,
+            "bottom": 150,
+            "vCenter": 476.25,
+            "hCenter": 145.125,
+            "field": "mazuiStyle",
+            "testData": "mazuiStyle",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 34.5,
+            "top": 111,
+            "height": 9.75,
+            "width": 39,
+            "title": "诊断：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 355.5,
+            "top": 111,
+            "height": 9.75,
+            "width": 57,
+            "title": "麻醉方式：",
+            "fontFamily": "SimSun",
+            "fontSize": 9
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 126,
+            "height": 15,
+            "width": 556.5,
+            "title": "根据《医疗美容服务管理办法》的规定，执业医师对就医者实施治疗前，必须向就医者本人或其监护人书面告知治疗的相关事项，并取得就医者本人或监护人的签字同意。现依法告知如下:",
+            "longTextIndent": 18,
+            "lineHeight": 13.5,
+            "fontSize": 8.25,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 142.5,
+            "height": 16.5,
+            "width": 556.5,
+            "title": "（一） 由于光电技术治疗特点、患者自身体质的影响及人体的不可预知性和个体差异，可能会出现下列情况，望您慎重考虑、理解和配合，同意接受治疗并签字。",
+            "fontSize": 9,
+            "lineHeight": 13.5,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "right": 577,
+            "bottom": 191.25,
+            "vCenter": 302,
+            "hCenter": 183,
+            "fontWeight": "bolder"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 159,
+            "height": 25.5,
+            "width": 556.5,
+            "title": "1.\t由于个人审美观点不同和现行医疗水平所限，光电美容治疗效果不一定能完全满足患者要求。\n2.\t光电治疗后治疗部位有红斑、水肿、出血、紫癜，表皮气化等，根据个人年龄、体质、光电治疗部位和光电类型的不同，恢复及维持时间长短不同。\n3.\t皮肤接受一般的光电治疗不会留下疤痕，除外瘢痕体质及瘢痕的光电治疗，尤其是剥脱性治疗后留下凹陷性及增生性疤痕，与其部位、深浅、大小及个人体质直接有关。\n4.\t色素性疾病的光电治疗按照病因不同需要多次治疗，可能出现局部皮肤的色素加深，色素减退或脱失，中年女性几乎都存在显性或者隐形的黄褐斑，在进行其他光电治疗时容易激惹黄褐斑而出现可能的色素加深，一旦出现大部分人需要6-12个月才能自己消退，极其少数人可能无法消退。\n5.\t脱毛根据部位不同一般需要4-6次，唇毛可能需要更多的次数，与毛发颜色、粗细、皮肤色泽有关。依据每个人皮肤对光电反应不同，有可能皮肤出现水泡而遗留色素沉着、色素脱失或者轻度瘢痕的可能。\n6.\t点阵光电对各种瘢痕及痘坑都可以改善，但不可能完全消除瘢痕，且有较长时间的色素沉着期，一般达到比较大的改善需要多次治疗。\n7.\t强脉冲光作用全面但温和，对痘印、皮肤质地、毛孔、色斑等问题的改善较为缓慢。\n8.\t色素痣，汗管瘤、脂溢性角化以及其他可见体表肿物类疾病，光电治疗可能会留有明显凹陷性瘢痕，并有一定复发几率，需重复治疗。\n9.\t患者或监护人理解和接受治疗前后的摄影，同意医院将摄影用于学术交流、发表论文、科研和教学。",
+            "fontSize": 8.25,
+            "lineHeight": 12.75,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "right": 572.5,
+            "bottom": 219.75,
+            "vCenter": 297.5,
+            "hCenter": 207
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 21,
+            "top": 186,
+            "height": 40.5,
+            "width": 558,
+            "title": "10.一般光电治疗需要多次，治疗费预计：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;圆。\n11.各种美容、健美项目以及非功能性整容、矫形手术等（如治疗痣、雀斑、老人斑、腋臭、粉刺，光电美容平疣，治疗皮赘、脂溢性角化症等）不属于青岛市社会医疗报销范围或随当地医保政策，商业保险请查阅您投保合同之约定条款或咨询相应机构。",
+            "right": 577.5,
+            "bottom": 245.25,
+            "vCenter": 300.75,
+            "hCenter": 234,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "fontSize": 8.25,
+            "lineHeight": 12.75,
+            "longTextIndent": 18
+          },
+          "printElementType": {
+            "title": "长文",
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 207,
+            "top": 186,
+            "height": 9.75,
+            "width": 127.5,
+            "title": "6. 本次手术总费用预计：      圆，其中植入人工组织代用品或医疗器械的产地:               材料:            品牌:           ，约           圆。",
+            "field": "total_fee",
+            "testData": "total_fee",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "hideTitle": true,
+            "fontFamily": "Microsoft YaHei",
+            "fontSize": 12,
+            "qrCodeLevel": 0,
+            "right": 297.75,
+            "bottom": 246.75,
+            "vCenter": 234,
+            "hCenter": 241.875
+          },
+          "printElementType": {
+            "title": "文本",
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 21,
+            "top": 229.5,
+            "height": 13.5,
+            "width": 558,
+            "title": "（二） 光电美容治疗是一种微创性的治疗手段，具有一定风险，实施本方案可能发生的医疗意外及并发症包括但不限于：",
+            "right": 572.5,
+            "bottom": 292.5,
+            "vCenter": 297.5,
+            "hCenter": 271.5,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "fontSize": 9,
+            "fontWeight": "bolder",
+            "longTextIndent": 18
+          },
+          "printElementType": {
+            "title": "长文",
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 243,
+            "height": 13.5,
+            "width": 556.5,
+            "title": "1.局部感染:见于治疗后护理不当、伴有其他疾病者；\n2.局部红肿，糜烂渗出，水疱形成和瘙痒感；\n3.瘢痕:见于有创治疗后创面感染、治疗后护理不当或疤痕体质者；\n4.轻度疼痛:几乎所有治疗都可能有不同程度的疼痛感，但都能够忍受；\n5.眉毛、睫毛部分脱落或稀少:见部分文眉、文眼线患者治疗后；\n6.皮肤颜色发生变化:见于文眉和文身；\t\n7.疗效较慢或不确切：如除皱嫩肤、脱毛和痤疮疤痕治疗时；\n8.病变复发:见于部分雀斑，咖啡斑，色素痣，脱毛治疗等；\n9.出血:多见于血管性疾病治疗后；\n10.光电治疗多为连续的过程，为了达到最佳效果常需数次治疗，治疗周期根据病损或不同肤质情况而定，因此应严格遵循医生书面或口头医嘱进行治疗，否则会影响疗效、增加治疗次数由此产生的费用应由就医者本人自行承担。我院涉及赠送或优惠的治疗/手术/服务项目时，仅在常规有偿治疗/手术/服务结束后开始。",
+            "fontSize": 8.25,
+            "lineHeight": 12.75,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "hideTitle": true,
+            "right": 577.5,
+            "bottom": 282,
+            "vCenter": 299.25,
+            "hCenter": 273.75
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 39,
+            "top": 261,
+            "height": 9.75,
+            "width": 120,
+            "title": "（三）麻醉风险",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0,
+            "right": 159,
+            "bottom": 295.5,
+            "vCenter": 99,
+            "hCenter": 290.625
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 25.5,
+            "top": 271.5,
+            "height": 42,
+            "width": 555,
+            "title": "整形美容手术或治疗中，实施麻醉的目的是消除手术疼痛，监测和调控生理功能，保障就医者安全，并为手术创造条件。体表局部注射药物以阻滞神经干或神经末梢导致痛觉消失即为局部麻醉（此处包括浸润麻醉、肿胀麻醉、浅表神经阻滞麻醉，下同）；使用表面麻醉剂外敷以减轻疼痛为表面麻醉。应用麻醉技术可以消除患者在治疗过程的局部疼痛和情绪紧张，确保手术或治疗能够安全进行。\n为保证手术时无痛和医疗安全，手术需要在麻醉和严密监测条件下进行。就医者有权选择麻醉方法，但根据就医者病情和手术需要，医师建议选择当前麻醉方案（见上）。\n麻醉的风险性与手术大小并非完全一致，复杂的手术可使麻醉的风险性增加，而有时手术并非很复杂，但由于就医者的病情和并存疾病的影响，可为麻醉带来一定的风险。\n因受医学科学技术条件限制，目前局部麻醉、表面麻醉具有一定的并发症难以完全避免，存在以下（但不限于）的风险：\n1.\t麻醉部位可能产生局部反应，以苍白、红斑（发红）和水肿较多见，这些反应多为短暂而且轻微。\n2.\t与原发病或并存疾病相关：如严重心律失常，心肌缺血/梗死，心力衰竭等。\n3.\t合并其他疾病时，局部麻醉可能诱发或加重已有症状，相关并发症风险性也显著增加。\n4.\t与药物相关：过敏反应或过敏性休克，局麻药全身毒性反应和神经毒性，严重呼吸和循环抑制，循环骤停，器官功能损害或衰竭等。\n5.\t表面麻醉使用初期也可能产生轻微刺痛、灼热感、瘙痒感、麻木，但毕竟少见；用于眼睛附近时可引起角膜刺激反应。使用时间过长，会导致麻醉效果减低。\n6.\t其它：",
+            "fontSize": 8.25,
+            "lineHeight": 12.75,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 40.5,
+            "top": 315,
+            "height": 9.75,
+            "width": 120,
+            "title": "（四） 光电治疗禁忌症",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "title": "文本",
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 25.5,
+            "top": 325.5,
+            "height": 24,
+            "width": 556.5,
+            "title": "以下不宜进行光电治疗的情况，治疗前应如实告诉医师。\n1.瘢痕体质者；\n2.慢性疾病如冠心病、高血压、糖尿病的患者；\n3.精神病患者，或对治疗有过高期望值者；\n4.活动期白癜风和银屑病，系统性红斑狼疮等自体免疫性疾患；\n5.过敏体质、性病，出血倾向、单纯疱疹病史者；\n6.妊娠期或哺乳期；\n7.光过敏者及服用光敏药物或抗凝药物者，使用维甲酸药物者；\n8.短期内曾行肉毒毒素注射、化学脱术、磨削术及其它换肤术、自体脂肪填充或埋线治疗者；\n9.不愿意术后进行防晒及接受磨削术风险等的患者。",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "fontSize": 8.25,
+            "lineHeight": 12,
+            "longTextIndent": 18
+          },
+          "printElementType": {
+            "title": "长文",
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 40.5,
+            "top": 349.5,
+            "height": 9.75,
+            "width": 120,
+            "title": "（五） 替代方案",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 358.5,
+            "height": 22.5,
+            "width": 547.5,
+            "title": " 替代方案\n \n",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "field": "tdfa_content",
+            "testData": "tdfa_content",
+            "hideTitle": true,
+            "longTextIndent": 18,
+            "fontSize": 8.25
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 42,
+            "top": 384,
+            "height": 9.75,
+            "width": 145.5,
+            "title": "（六） 光电治疗后注意事项",
+            "right": 186.75,
+            "bottom": 371.25,
+            "vCenter": 114,
+            "hCenter": 366.375,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "title": "文本",
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 394.5,
+            "height": 24,
+            "width": 550,
+            "title": "1.术后即刻冷敷20-30分钟，有明显疼痛感可以延长冷敷时间；\n2.术后1-3个月内注意防晒；\n3.有创性光电治疗后渗出期约24-72小时，有皮肤肿胀及渗液的表现，保持洁净，可用生长因子及抗生素乳膏湿性愈合，一般7-10天创面完全愈合后开始正常洗脸，洗面奶从最温和的用起，10-12天可恢复化妆，从刺激小的化妆品开始渐进性的恢复；\n4.无创光电术后注意保湿补水，每日外用补水面膜及日常水乳，一周后恢复正常频次;正常化妆建议治疗后48小时；\n5.饮食宜清淡，尤其痤疮或者毛孔粗大的患者，日常应当少食或者不食辛辣油腻及甜食",
+            "fontSize": 8.25,
+            "lineHeight": 12,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 39,
+            "top": 418.5,
+            "height": 9.75,
+            "width": 120,
+            "title": "（七） 院方承诺",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 429,
+            "height": 19.5,
+            "width": 550,
+            "title": "1.尊重患者的隐私权，未经患者本人或监护人同意，不向第三方披露就医者病情及病历资料。\n2.未经患者或监护人同意，不将手术前后拍摄的相片用于广告宣传和商业用途。\n3.院方所使用的植入物均经过国家及青岛市有关部门的审批，绝不使用未经政府批准的材料。\n4.院方所施行医学技术遵循国家有关规定，参照中华医学会临床诊疗指南并根据行业协会相关共识适当调整的个体化规范治疗。如涉及临床试验项目，均经医院伦理委员会审批通过，并告知患方和/或监护人知情同意，另签署详细知情同意书。",
+            "fontSize": 8.25,
+            "lineHeight": 12,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 40.5,
+            "top": 450,
+            "height": 9.75,
+            "width": 531,
+            "title": "（八） 就医方（就医者和/或其监护人、授权委托人、单位负责人）承诺",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 462,
+            "height": 19.5,
+            "width": 550,
+            "title": "1.向院方如实告知就医者个人情况及既往病史，并严格遵守告知书的规定或医师根据具体情况特别告知的注意事项，否则自行承担由此产生的不良后果。\n2.患者或监护人理解和接受手术前后的摄影，同意医院将摄影用于学术交流、发表论文、科研和教学。\n3.患者或监护人理解和接受当前医疗水平的局限性、风险性及个体反应的差异性和不确定性。不能完全排除药物及手术的副作用及意外情况的发生，且负面影响可能不能完全被消除。",
+            "fontSize": 8.25,
+            "lineHeight": 12,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 39,
+            "top": 483,
+            "height": 9.75,
+            "width": 529.5,
+            "title": "（九） 就医方（就医者和/或其监护人、授权委托人、单位负责人）声明",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0,
+            "right": 567.75,
+            "bottom": 493.5,
+            "vCenter": 303,
+            "hCenter": 488.625
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 22.5,
+            "top": 495,
+            "height": 21,
+            "width": 550,
+            "title": "本人已经仔细阅读了告知书的全部内容，对于医疗美容手术的适应证、禁忌证、医疗风险、注意事项、手术（治疗）收费及医疗摄影等已经有了明确的认识，并以当前纸质版本阐述为准。本人完全理解并同意以上所有约定内容，经慎重考虑，愿意承担以上风险，决定接受手术。",
+            "fontSize": 8.25,
+            "lineHeight": 12,
+            "longTextIndent": 18,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun"
+          },
+          "printElementType": {
+            "type": "longText"
+          }
+        },
+        {
+          "options": {
+            "left": 438,
+            "top": 516,
+            "height": 27,
+            "width": 57,
+            "src": "/Content/assets/hi.png",
+            "field": "imageSRC"
+          },
+          "printElementType": {
+            "type": "image"
+          }
+        },
+        {
+          "options": {
+            "left": 54,
+            "top": 519,
+            "height": 9.75,
+            "width": 174,
+            "title": "就医者",
+            "textAlign": "justify",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 229.5,
+            "top": 526.5,
+            "height": 9.75,
+            "width": 120,
+            "title": "签字：",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 390,
+            "top": 526.5,
+            "height": 9.75,
+            "width": 120,
+            "title": "医师签字：",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 54,
+            "top": 531,
+            "height": 9.75,
+            "width": 174,
+            "title": "和/或其监护人、授权委托人、单位负责人",
+            "textAlign": "justify",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 208.5,
+            "top": 549,
+            "height": 9.75,
+            "width": 120,
+            "title": "时间",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0,
+            "field": "patientSignTime",
+            "testData": "patientSignTime",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 406.5,
+            "top": 549,
+            "height": 9.75,
+            "width": 120,
+            "title": "时间",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "qrCodeLevel": 0,
+            "field": "docSignTime",
+            "testData": "docSignTime",
+            "hideTitle": true
+          },
+          "printElementType": {
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 19.5,
+            "top": 577.5,
+            "height": 57,
+            "width": 550,
+            "right": 568.75,
+            "bottom": 633.75,
+            "vCenter": 293.75,
+            "hCenter": 605.25,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "lineHeight": 6,
+            "textAlign": "center",
+            "columns": [
+              [
+                {
+                  "width": 100,
+                  "title": "IPL",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "治疗日期",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "治疗目的",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "波长",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "title": "脉冲",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "脉宽",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "延时",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "title": "能量密度",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "备注",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "1",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□嫩肤 □祛红 □祛黑 □脱毛",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□560nm □695nm",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "2",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□嫩肤 □祛红 □祛黑 □脱毛",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□560nm □695nm",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "3",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□嫩肤 □祛红 □祛黑 □脱毛",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□560nm □695nm",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "3",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□嫩肤 □祛红 □祛黑 □脱毛",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□560nm □695nm",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "4",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□嫩肤 □祛红 □祛黑 □脱毛",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□560nm □695nm",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "6",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□嫩肤 □祛红 □祛黑 □脱毛",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□560nm □695nm",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 31.055986550247876,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 45.698075713230004,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 138.20342059815292,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 83.13796070690813,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 41.04821301318151,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 49.0586331360947,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 46.06036265361874,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 59.14496301318144,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 56.592384615384674,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ]
+            ]
+          },
+          "printElementType": {
+            "title": "表格",
+            "type": "table",
+            "editable": true,
+            "columnDisplayEditable": true,
+            "columnDisplayIndexEditable": true,
+            "columnTitleEditable": true,
+            "columnResizable": true,
+            "columnAlignEditable": true,
+            "isEnableEditField": true,
+            "isEnableContextMenu": true,
+            "isEnableInsertRow": true,
+            "isEnableDeleteRow": true,
+            "isEnableInsertColumn": true,
+            "isEnableDeleteColumn": true,
+            "isEnableMergeCell": true
+          }
+        },
+        {
+          "options": {
+            "left": 21,
+            "top": 654,
+            "height": 9.75,
+            "width": 549,
+            "title": "超脉冲二氧化碳：&nbsp;手具：f=100mm &nbsp;□f=50mm &nbsp;&nbsp;输出方式：□连续 &nbsp;□脉冲&nbsp;&nbsp能量： &nbsp;&nbsp;&nbsp;W&nbsp;&nbsp;其它：",
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "fontSize": 9,
+            "qrCodeLevel": 0
+          },
+          "printElementType": {
+            "title": "文本",
+            "type": "text"
+          }
+        },
+        {
+          "options": {
+            "left": 21,
+            "top": 682.5,
+            "height": 64.5,
+            "width": 550,
+            "coordinateSync": false,
+            "widthHeightSync": false,
+            "fontFamily": "SimSun",
+            "textAlign": "center",
+            "right": 572.5,
+            "bottom": 746.25,
+            "vCenter": 297.5,
+            "hCenter": 714,
+            "columns": [
+              [
+                {
+                  "width": 100,
+                  "title": "点阵",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "title": "治疗日期",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "治疗目的",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "点间距",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "治疗部位、面积",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "能量",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "title": "备注",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "1",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□瘢痕 □毛孔 □",
+                  "field": "",
+                  "checked": true,
+                  "columnId": "",
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "2",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□瘢痕 □毛孔 □",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "3",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□瘢痕 □毛孔 □",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "4",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□瘢痕 □毛孔 □",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "5",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□瘢痕 □毛孔 □",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 100,
+                  "title": "6",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "title": "□瘢痕 □毛孔 □",
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 100,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 275,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ],
+              [
+                {
+                  "width": 32.64914175199909,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 46.06079606799754,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 119.17388461538465,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 49.088633136094685,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 211.2793626536185,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 47.977210706908025,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                },
+                {
+                  "width": 43.77097106799752,
+                  "checked": true,
+                  "fixed": false,
+                  "rowspan": 1,
+                  "colspan": 1
+                }
+              ]
+            ]
+          },
+          "printElementType": {
+            "title": "表格",
+            "type": "table",
+            "editable": true,
+            "columnDisplayEditable": true,
+            "columnDisplayIndexEditable": true,
+            "columnTitleEditable": true,
+            "columnResizable": true,
+            "columnAlignEditable": true,
+            "isEnableEditField": true,
+            "isEnableContextMenu": true,
+            "isEnableInsertRow": true,
+            "isEnableDeleteRow": true,
+            "isEnableInsertColumn": true,
+            "isEnableDeleteColumn": true,
+            "isEnableMergeCell": true
+          }
+        }
+      ],
+      "paperNumberLeft": 565.5,
+      "paperNumberTop": 819,
+      "paperNumberDisabled": true,
+      "paperNumberContinue": true,
+      "overPrintOptions": {
+        "content": "",
+        "opacity": 0.7,
+        "type": 1
+      },
+      "watermarkOptions": {
+        "content": "",
+        "fillStyle": "rgba(184, 184, 184, 0.3)",
+        "fontSize": "14px",
+        "rotate": 25,
+        "width": 200,
+        "height": 200,
+        "timestamp": false,
+        "format": "YYYY-MM-DD HH:mm"
+      }
+    }
+  ]
+}
